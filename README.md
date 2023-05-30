@@ -1,0 +1,2 @@
+# Sales-prediction-using-python
+ Sales prediction means predicting how much of a product people. This is a Data Science Project based on Machine Learning prediction and Algorithms. It also comprises of Data Visualizations done through Python Programming. Libraries used are Pandas, numpy , matplotlib, sklearn will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product.
